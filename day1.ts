@@ -103,7 +103,7 @@ const s:Student ={
 
 console.log(s.id);
 
-//FUNTIONS
+//FUNCTIONS
 type MathFn = (a: number, b: number) => number;
 
 const add:MathFn = (a, b) => a+b;
